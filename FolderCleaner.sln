@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FolderCleaner", "FolderCleaner\FolderCleaner.pyproj", "{EF5D3F79-CC82-4FB5-8D08-17E49A487966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5D3F79-CC82-4FB5-8D08-17E49A487966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5D3F79-CC82-4FB5-8D08-17E49A487966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F96B352-17B7-4BD6-8E5F-8406EACB65F6}
+	EndGlobalSection
+EndGlobal
