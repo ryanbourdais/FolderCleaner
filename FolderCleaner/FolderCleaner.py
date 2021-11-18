@@ -18,7 +18,7 @@ def FileDeleter():
     if file_path == "T":
         path = 'C:/windows/temp'
         path_name = 'Temp'
-
+    # end of conditionals
 
     os.chdir(path)
 
